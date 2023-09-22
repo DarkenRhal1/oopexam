@@ -8,9 +8,5 @@ public abstract class Person {
 
 
     public static void main(String[] args) {
-        public double calculateTotal(Clothing[]); {
-            
-        }
-
     }
 }
